@@ -5,7 +5,7 @@
 <h2>Screenshots:</h2>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-  <img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/welcome_screen.PNG" alt="project-screenshot" width="400" height="600"/>
+  <img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/welcome_screen.PNG" alt="project-screenshot" width="400" height="700"/>
 
   <img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/login.gif" alt="project-screenshot" width="400" height="700"/>
 
