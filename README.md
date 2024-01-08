@@ -39,7 +39,7 @@
 *   Advertisements can be deleted
 *   All data and updates are stored in the database
 
-<h2>🛠Installation Steps:</h2>
+<h2>Installation Steps:</h2>
 
 <p>1. Clone this repo</p>
 
