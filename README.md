@@ -2,31 +2,31 @@
 
 <p id="description">This mobile application has been developed as a car buying and selling platform.</p>
 
-<h2>Project Screenshots:</h2>
+<h2>Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/welcome_screen.PNG" alt="project-screenshot" width="400" height="800/">
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/welcome_screen.PNG" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/login.gif" alt="project-screenshot" width="400" height="800/">
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/login.gif" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/register_screen.PNG" alt="project-screenshot" width="400" height="800/">
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/register_screen.PNG" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/home_screen.PNG" alt="project-screenshot" width="400" height="800/">
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/home_screen.PNG" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/share_screen.PNG" alt="project-screenshot" width="400" height="800/">
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/share_screen.PNG" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/share_gif.gif?raw=true" alt="project-screenshot" width="400" height="800/">
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/share_gif.gif?raw=true" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/list_screen.PNG?raw=true" alt="project-screenshot" width="400" height="800/">
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/list_screen.PNG?raw=true" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/search.gif?raw=true" alt="project-screenshot" width="400" height="800/">
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/search.gif?raw=true" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/upgrade_screen.PNG?raw=true" alt="project-screenshot" width="400" height="800/">
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/upgrade_screen.PNG?raw=true" alt="project-screenshot" width="250" height="800/">
 
-<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/delete.gif?raw=true" alt="project-screenshot" width="400" height="800/">
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/delete.gif?raw=true" alt="project-screenshot" width="250" height="800/">
 
   
   
-<h2>🧐 Features</h2>
+<h2>Features</h2>
 
 Here're some of the project's best features:
 
@@ -55,9 +55,8 @@ flutter run
 
   
   
-<h2>💻 Built with</h2>
+<h2>Packages</h2>
 
-Technologies used in the project:
 
 *   sqflite
 *   path
