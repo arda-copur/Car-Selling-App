@@ -4,9 +4,9 @@
 
 <h2>Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/welcome_screen.PNG" alt="project-screenshot" width="250" height="200/">
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/welcome_screen.PNG" alt="project-screenshot" width="" height="800/">
 
-<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/login.gif" alt="project-screenshot" width="250" height="200/">
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/login.gif" alt="project-screenshot" width="" height="800/">
 
 <img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/register_screen.PNG" alt="project-screenshot" width="250" height="800/">
 
