@@ -31,7 +31,6 @@
   
 <h2>Features</h2>
 
-Here're some of the project's best features:
 
 *   Car advertisement can be shared
 *   Shared advertisements can be listed and viewed
@@ -40,7 +39,7 @@ Here're some of the project's best features:
 *   Advertisements can be deleted
 *   All data and updates are stored in the database
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠Installation Steps:</h2>
 
 <p>1. Clone this repo</p>
 
