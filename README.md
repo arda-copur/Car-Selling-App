@@ -1,16 +1,67 @@
-# db_example
+<h1 align="center" id="title">Car Selling App</h1>
 
-A new Flutter project.
+<p id="description">This mobile application has been developed as a car buying and selling platform.</p>
 
-## Getting Started
+<h2>Screenshots:</h2>
 
-This project is a starting point for a Flutter application.
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/welcome_screen.PNG" alt="project-screenshot" width="400" height="400/">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/login.gif" alt="project-screenshot" width="400" height="400/">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/register_screen.PNG" alt="project-screenshot" width="390" height="400/">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/home_screen.PNG" alt="project-screenshot" width="390" height="400/">
+
+<img src="https://raw.githubusercontent.com/arda-copur/Car-Selling-App/main/ss/share_screen.PNG" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/share_gif.gif?raw=true" alt="project-screenshot" width="410" height="400/">
+
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/list_screen.PNG?raw=true" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/search.gif?raw=true" alt="project-screenshot" width="410" height="400/">
+
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/upgrade_screen.PNG?raw=true" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://github.com/arda-copur/Car-Selling-App/blob/main/ss/delete.gif?raw=true" alt="project-screenshot" width="410" height="400/">
+
+  
+  
+<h2>Features</h2>
+
+Here're some of the project's best features:
+
+*   Car advertisement can be shared
+*   Shared advertisements can be listed and viewed
+*   The features of a shared advertisement can be modified later
+*   The desired car advertisement can be found by searching
+*   Advertisements can be deleted
+*   All data and updates are stored in the database
+
+<h2>🛠Installation Steps:</h2>
+
+<p>1. Clone this repo</p>
+
+<p>2. Run flutter pub get</p>
+
+```
+flutter pub get
+```
+
+<p>3. Run flutter run</p>
+
+```
+flutter run
+```
+
+  
+  
+<h2>Packages</h2>
+
+
+*   sqflite
+*   path
+*   image\_picker
+*   another\_flutter\_splash\_screen
+*   delightful\_toast
+*   lottie
+*   provider
