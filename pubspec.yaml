@@ -1,0 +1,51 @@
+name: db_example
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  # db
+  sqflite: ^2.2.8+2
+  path: ^1.8.3
+  # images
+  image_picker: ^0.8.6
+  #splash 
+  another_flutter_splash_screen: ^1.2.0
+  #snack bar
+  delightful_toast: ^1.1.0
+  #state management
+  provider: ^6.0.5
+  #lottie images
+  lottie: ^2.4.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - images/
+    - images/lottie/
