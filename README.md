@@ -39,6 +39,21 @@
 *   Advertisements can be deleted
 *   All data and updates are stored in the database
 
+
+  
+<h2>Packages</h2>
+
+
+*   sqflite
+*   path
+*   image\_picker
+*   another\_flutter\_splash\_screen
+*   delightful\_toast
+*   lottie
+*   provider
+
+
+
 <h2>Installation Steps:</h2>
 
 <p>1. Clone this repo</p>
@@ -54,16 +69,3 @@ flutter pub get
 ```
 flutter run
 ```
-
-  
-  
-<h2>Packages</h2>
-
-
-*   sqflite
-*   path
-*   image\_picker
-*   another\_flutter\_splash\_screen
-*   delightful\_toast
-*   lottie
-*   provider
